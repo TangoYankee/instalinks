@@ -1,4 +1,8 @@
-body {
+body.body-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 1240px;
+    margin: auto;
     padding: 10px;
 }
 
