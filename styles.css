@@ -3,6 +3,7 @@ body.body-container {
     flex-direction: column;
     max-width: 1240px;
     margin: auto;
+    padding: 10px;
 }
 
 h1, h2, h3, h4 {
