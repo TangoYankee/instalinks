@@ -1,5 +1,8 @@
-body {
-    padding: 10px;
+body.body-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 1240px;
+    margin: auto;
 }
 
 h1, h2, h3, h4 {
