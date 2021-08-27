@@ -1,5 +1,5 @@
 ## Instalinks
-https://tangled.city  
+https://tangoyankee.io
 A resource to easily to navigate to hyperlinks from instagram posts.
 
 ### Hosting
